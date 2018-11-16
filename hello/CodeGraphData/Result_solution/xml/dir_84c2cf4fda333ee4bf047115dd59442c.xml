@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_84c2cf4fda333ee4bf047115dd59442c" kind="dir">
+    <compoundname>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello</compoundname>
+    <innerfile refid="hello_8cpp">hello.cpp</innerfile>
+    <innerfile refid="std__lib__facilities_8h">std_lib_facilities.h</innerfile>
+    <innerfile refid="stdafx_8h">stdafx.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/"/>
+  </compounddef>
+</doxygen>

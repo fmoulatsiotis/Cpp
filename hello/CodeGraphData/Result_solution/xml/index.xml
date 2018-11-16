@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="hello_8cpp" kind="file"><name>hello.cpp</name>
+    <member refid="hello_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="std__lib__facilities_8h" kind="file"><name>std_lib_facilities.h</name>
+    <member refid="std__lib__facilities_8h_1a7b63e7f335ed421c242fe49e468b0e12" kind="function"><name>keep_window_open</name></member>
+  </compound>
+  <compound refid="stdafx_8h" kind="file"><name>stdafx.h</name>
+  </compound>
+  <compound refid="dir_25edd6760e4b4598e1cf0efa8482487f" kind="dir"><name>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp</name>
+  </compound>
+  <compound refid="dir_caf3ec04ea343b835f0965d3e77d2d07" kind="dir"><name>C:/Users/Fotakos/Documents/Local Workspace/Cpp</name>
+  </compound>
+  <compound refid="dir_3c0c85476e5f1926e40df06341c9b3b4" kind="dir"><name>C:/Users/Fotakos/Documents</name>
+  </compound>
+  <compound refid="dir_8ed2afef4fe211fab8536d7f190f1891" kind="dir"><name>C:/Users/Fotakos</name>
+  </compound>
+  <compound refid="dir_84c2cf4fda333ee4bf047115dd59442c" kind="dir"><name>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello</name>
+  </compound>
+  <compound refid="dir_5aef311f00c9f9305107713195f764bc" kind="dir"><name>C:/Users/Fotakos/Documents/Local Workspace</name>
+  </compound>
+  <compound refid="dir_8ceffd4ee35c3518d4e8bdc7e638efe8" kind="dir"><name>C:/Users</name>
+  </compound>
+</doxygenindex>

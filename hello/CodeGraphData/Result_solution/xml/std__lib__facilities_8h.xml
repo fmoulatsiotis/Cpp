@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="std__lib__facilities_8h" kind="file">
+    <compoundname>std_lib_facilities.h</compoundname>
+    <includes local="no">iostream</includes>
+    <includes local="no">string</includes>
+    <includes local="no">vector</includes>
+    <includes local="no">algorithm</includes>
+    <includes local="no">cmath</includes>
+    <includedby refid="stdafx_8h" local="yes">C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/stdafx.h</includedby>
+    <incdepgraph>
+      <node id="9">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/std_lib_facilities.h</label>
+        <link refid="std_lib_facilities.h"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>cmath</label>
+      </node>
+      <node id="11">
+        <label>string</label>
+      </node>
+      <node id="12">
+        <label>vector</label>
+      </node>
+      <node id="10">
+        <label>iostream</label>
+      </node>
+      <node id="13">
+        <label>algorithm</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="16">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/stdafx.h</label>
+        <link refid="stdafx_8h"/>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/std_lib_facilities.h</label>
+        <link refid="std_lib_facilities.h"/>
+        <childnode refid="16" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/hello.cpp</label>
+        <link refid="hello_8cpp"/>
+      </node>
+    </invincdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="std__lib__facilities_8h_1a7b63e7f335ed421c242fe49e468b0e12" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void keep_window_open</definition>
+        <argsstring>()</argsstring>
+        <name>keep_window_open</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/std_lib_facilities.h" line="9" column="1" bodyfile="C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/std_lib_facilities.h" bodystart="9" bodyend="9"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">//#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="preprocessor">#include&lt;iostream&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="preprocessor">#include&lt;string&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="preprocessor">#include&lt;vector&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="preprocessor">#include&lt;algorithm&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="preprocessor">#include&lt;cmath&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight><highlight class="keyword">using<sp/>namespace<sp/></highlight><highlight class="normal">std;</highlight></codeline>
+<codeline lineno="9" refid="std__lib__facilities_8h_1a7b63e7f335ed421c242fe49e468b0e12" refkind="member"><highlight class="normal"></highlight><highlight class="keyword">inline</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="std__lib__facilities_8h_1a7b63e7f335ed421c242fe49e468b0e12" kindref="member">keep_window_open</ref><sp/>()<sp/>{<sp/></highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>ch;<sp/>cin<sp/>&gt;&gt;<sp/>ch;<sp/>}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/std_lib_facilities.h"/>
+  </compounddef>
+</doxygen>

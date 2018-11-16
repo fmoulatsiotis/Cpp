@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="stdafx_8h" kind="file">
+    <compoundname>stdafx.h</compoundname>
+    <includes refid="std__lib__facilities_8h" local="yes">std_lib_facilities.h</includes>
+    <includedby refid="hello_8cpp" local="yes">C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/hello.cpp</includedby>
+    <incdepgraph>
+      <node id="18">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/stdafx.h</label>
+        <link refid="stdafx.h"/>
+        <childnode refid="19" relation="include">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>std_lib_facilities.h</label>
+        <link refid="std__lib__facilities_8h"/>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+        <childnode refid="24" relation="include">
+        </childnode>
+      </node>
+      <node id="24">
+        <label>cmath</label>
+      </node>
+      <node id="21">
+        <label>string</label>
+      </node>
+      <node id="22">
+        <label>vector</label>
+      </node>
+      <node id="20">
+        <label>iostream</label>
+      </node>
+      <node id="23">
+        <label>algorithm</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="25">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/stdafx.h</label>
+        <link refid="stdafx.h"/>
+        <childnode refid="26" relation="include">
+        </childnode>
+      </node>
+      <node id="26">
+        <label>C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/hello.cpp</label>
+        <link refid="hello_8cpp"/>
+      </node>
+    </invincdepgraph>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#pragma<sp/>once</highlight></codeline>
+<codeline lineno="2"><highlight class="preprocessor"></highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&quot;<ref refid="std__lib__facilities_8h" kindref="compound">std_lib_facilities.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Fotakos/Documents/Local Workspace/Cpp/Cpp/hello/stdafx.h"/>
+  </compounddef>
+</doxygen>
